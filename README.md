@@ -1,15 +1,12 @@
-
-
 <div align="center">
   
   # Pindie-Landing
 
   ![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white)
-![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-blue)
+  ![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white)
+  ![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-blue)
 
   [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/danula-ded/pindie-landing/blob/main/LICENSE)
-
 
 </div>
 
