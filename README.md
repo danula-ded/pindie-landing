@@ -8,13 +8,13 @@
 ![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-blue)
 
-  [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/danula-ded/skroll_dangen/blob/main/LICENSE)
+  [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/danula-ded/pindie-landing/blob/main/LICENSE)
 
 
 </div>
 
 <div align="center">
-  <h2><a href="https://danula-ded.github.io/skroll_dangen/" target="_blank">✨ Посетите сайт "Pindie-Landing" ✨</a></h2>
+  <h2><a href="https://danula-ded.github.io/pindie-landing/" target="_blank">✨ Посетите сайт "Pindie-Landing" ✨</a></h2>
 </div>
 
 
